@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>umboNEW</title>
-    <link href="https://bae49b90.umbel-983.pages.dev/feed.xml" rel="self" />
-    <link href="https://bae49b90.umbel-983.pages.dev" />
+    <link href="https://umbonew.pages.dev/feed.xml" rel="self" />
+    <link href="https://umbonew.pages.dev" />
     <updated>2025-09-06T17:17:25+02:00</updated>
     <author>
         <name>Francis Gladstone</name>
     </author>
-    <id>https://bae49b90.umbel-983.pages.dev</id>
+    <id>https://umbonew.pages.dev</id>
 
     <entry>
         <title>any flames here</title>
         <author>
             <name>Francis Gladstone</name>
         </author>
-        <link href="https://bae49b90.umbel-983.pages.dev/any-flames-here.html"/>
-        <id>https://bae49b90.umbel-983.pages.dev/any-flames-here.html</id>
+        <link href="https://umbonew.pages.dev/any-flames-here.html"/>
+        <id>https://umbonew.pages.dev/any-flames-here.html</id>
 
         <updated>2025-09-06T17:17:25+02:00</updated>
             <summary></summary>
@@ -31,14 +31,14 @@
         <author>
             <name>Francis Gladstone</name>
         </author>
-        <link href="https://bae49b90.umbel-983.pages.dev/a-nice-little-post-for-jumboumbo.html"/>
-        <id>https://bae49b90.umbel-983.pages.dev/a-nice-little-post-for-jumboumbo.html</id>
+        <link href="https://umbonew.pages.dev/a-nice-little-post-for-jumboumbo.html"/>
+        <id>https://umbonew.pages.dev/a-nice-little-post-for-jumboumbo.html</id>
 
         <updated>2025-09-06T17:15:03+02:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://bae49b90.umbel-983.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png" alt="" width="796" height="577" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 640w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 768w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 1024w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1366w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xl.png 1600w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-2xl.png 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://umbonew.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png" alt="" width="796" height="577" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 640w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 768w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 1024w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1366w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xl.png 1600w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>

@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "umboNEW",
     "description": "",
-    "home_page_url": "https://bae49b90.umbel-983.pages.dev",
-    "feed_url": "https://bae49b90.umbel-983.pages.dev/feed.json",
+    "home_page_url": "https://umbonew.pages.dev",
+    "feed_url": "https://umbonew.pages.dev/feed.json",
     "user_comment": "",
     "author": {
         "name": "Francis Gladstone"
     },
     "items": [
         {
-            "id": "https://bae49b90.umbel-983.pages.dev/any-flames-here.html",
-            "url": "https://bae49b90.umbel-983.pages.dev/any-flames-here.html",
+            "id": "https://umbonew.pages.dev/any-flames-here.html",
+            "url": "https://umbonew.pages.dev/any-flames-here.html",
             "title": "any flames here",
             "content_html": "<figure class=\"post__video\"><video loading=\"lazy\" width=\"698\" height=\"349\" style=\"width: 698px; height: 349px;\" controls=\"controls\" data-mce-fragment=\"1\">\n<source src=\"flames.mp4\" type=\"video/mp4\" /></video></figure>",
             "author": {
@@ -23,10 +23,10 @@
             "date_modified": "2025-09-06T17:17:25+02:00"
         },
         {
-            "id": "https://bae49b90.umbel-983.pages.dev/a-nice-little-post-for-jumboumbo.html",
-            "url": "https://bae49b90.umbel-983.pages.dev/a-nice-little-post-for-jumboumbo.html",
+            "id": "https://umbonew.pages.dev/a-nice-little-post-for-jumboumbo.html",
+            "url": "https://umbonew.pages.dev/a-nice-little-post-for-jumboumbo.html",
             "title": "A nice little post for JumboUmbo",
-            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://bae49b90.umbel-983.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png\" alt=\"\" width=\"796\" height=\"577\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 640w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 768w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 1024w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1366w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xl.png 1600w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-2xl.png 1920w\"></figure>",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://umbonew.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png\" alt=\"\" width=\"796\" height=\"577\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 640w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 768w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 1024w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1366w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xl.png 1600w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-2xl.png 1920w\"></figure>",
             "author": {
                 "name": "Francis Gladstone"
             },

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Umbel</title>
+    <link href="https://github.com/fgladstone-a11y/umbel.git/feed.xml" rel="self" />
+    <link href="https://github.com/fgladstone-a11y/umbel.git" />
+    <updated>2025-09-01T21:36:24+02:00</updated>
+    <author>
+        <name>Francis Gladstone</name>
+    </author>
+    <id>https://github.com/fgladstone-a11y/umbel.git</id>
+
+    <entry>
+        <title>another go at vide-o</title>
+        <author>
+            <name>Francis Gladstone</name>
+        </author>
+        <link href="https://github.com/fgladstone-a11y/umbel.git/another-go-at-vide-o/"/>
+        <id>https://github.com/fgladstone-a11y/umbel.git/another-go-at-vide-o/</id>
+
+        <updated>2025-09-01T17:57:14+02:00</updated>
+            <summary>
+                <![CDATA[
+                    So let's see. if we embed a video here will that go up to cloudflare?? no it didn't. why not?
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>So let's see. if we embed a video here</p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="C:\!         NoteBooks\notes25-8-9 cloudflare expts\blog xpts\moving pix\pondlife01.mp4" type="video/mp4" /></video></figure>
+<p>will that go up to cloudflare?? no it didn't.  why not?</p>
+<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
+<source src="videos/flames.mp4" type="video/mp4" /></video></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Brer Rabbit has news for you</title>
+        <author>
+            <name>Francis Gladstone</name>
+        </author>
+        <link href="https://github.com/fgladstone-a11y/umbel.git/brer-rabbit-has-news-for-you/"/>
+        <id>https://github.com/fgladstone-a11y/umbel.git/brer-rabbit-has-news-for-you/</id>
+
+        <updated>2025-08-31T16:13:53+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Or at least, the caravan is coming . . .
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://github.com/fgladstone-a11y/umbel.git/media/posts/1/image.adapt.1663.medium.jpg" alt="caravan" width="1663" height="935" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://github.com/fgladstone-a11y/umbel.git/media/posts/1/responsive/image.adapt.1663.medium-xs.jpg 640w ,https://github.com/fgladstone-a11y/umbel.git/media/posts/1/responsive/image.adapt.1663.medium-sm.jpg 768w ,https://github.com/fgladstone-a11y/umbel.git/media/posts/1/responsive/image.adapt.1663.medium-md.jpg 1024w ,https://github.com/fgladstone-a11y/umbel.git/media/posts/1/responsive/image.adapt.1663.medium-lg.jpg 1366w ,https://github.com/fgladstone-a11y/umbel.git/media/posts/1/responsive/image.adapt.1663.medium-xl.jpg 1600w ,https://github.com/fgladstone-a11y/umbel.git/media/posts/1/responsive/image.adapt.1663.medium-2xl.jpg 1920w"></figure>
+<p>Or at least, the caravan is coming . . .</p>
+            ]]>
+        </content>
+    </entry>
+</feed>

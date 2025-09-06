@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://github.com/fgladstone-a11y/umbel.git/sitemap.xml
+Sitemap: https://bae49b90.umbel-983.pages.dev/sitemap.xml

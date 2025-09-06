@@ -3,7 +3,7 @@
     <title>umboNEW</title>
     <link href="https://umbonew.pages.dev/feed.xml" rel="self" />
     <link href="https://umbonew.pages.dev" />
-    <updated>2025-09-06T18:30:55+02:00</updated>
+    <updated>2025-09-06T18:47:25+02:00</updated>
     <author>
         <name>Francis Gladstone</name>
     </author>
@@ -21,7 +21,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__video"><video loading="lazy" width="698" height="349" style="width: 939px; height: 467px;" controls="controls" data-mce-fragment="1" autoplay="autoplay" loop="loop" muted="" playsinline="">
+                <figure class="post__video"><video loading="lazy" width="698" height="349" style="width: 100%; height: auto; max-width: 100%; display: block;" controls="controls" data-mce-fragment="1" autoplay="autoplay" loop="loop" muted="" playsinline="">
 <source src="flames.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>

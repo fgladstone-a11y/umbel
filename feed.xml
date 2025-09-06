@@ -1,57 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Umbel</title>
+    <title>umboNEW</title>
     <link href="https://bae49b90.umbel-983.pages.dev/feed.xml" rel="self" />
     <link href="https://bae49b90.umbel-983.pages.dev" />
-    <updated>2025-09-01T21:36:24+02:00</updated>
+    <updated>2025-09-06T17:17:25+02:00</updated>
     <author>
         <name>Francis Gladstone</name>
     </author>
     <id>https://bae49b90.umbel-983.pages.dev</id>
 
     <entry>
-        <title>another go at vide-o</title>
+        <title>any flames here</title>
         <author>
             <name>Francis Gladstone</name>
         </author>
-        <link href="https://bae49b90.umbel-983.pages.dev/another-go-at-vide-o/"/>
-        <id>https://bae49b90.umbel-983.pages.dev/another-go-at-vide-o/</id>
+        <link href="https://bae49b90.umbel-983.pages.dev/any-flames-here.html"/>
+        <id>https://bae49b90.umbel-983.pages.dev/any-flames-here.html</id>
 
-        <updated>2025-09-01T17:57:14+02:00</updated>
-            <summary>
-                <![CDATA[
-                    So let's see. if we embed a video here will that go up to cloudflare?? no it didn't. why not?
-                ]]>
-            </summary>
+        <updated>2025-09-06T17:17:25+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <p>So let's see. if we embed a video here</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
-<source src="C:\!         NoteBooks\notes25-8-9 cloudflare expts\blog xpts\moving pix\pondlife01.mp4" type="video/mp4" /></video></figure>
-<p>will that go up to cloudflare?? no it didn't.  why not?</p>
-<figure class="post__video"><video loading="lazy" width="300" height="150" controls="controls" data-mce-fragment="1">
-<source src="videos/flames.mp4" type="video/mp4" /></video></figure>
+                <figure class="post__video"><video loading="lazy" width="698" height="349" style="width: 698px; height: 349px;" controls="controls" data-mce-fragment="1">
+<source src="flames.mp4" type="video/mp4" /></video></figure>
             ]]>
         </content>
     </entry>
     <entry>
-        <title>Brer Rabbit has news for you</title>
+        <title>A nice little post for JumboUmbo</title>
         <author>
             <name>Francis Gladstone</name>
         </author>
-        <link href="https://bae49b90.umbel-983.pages.dev/brer-rabbit-has-news-for-you/"/>
-        <id>https://bae49b90.umbel-983.pages.dev/brer-rabbit-has-news-for-you/</id>
+        <link href="https://bae49b90.umbel-983.pages.dev/a-nice-little-post-for-jumboumbo.html"/>
+        <id>https://bae49b90.umbel-983.pages.dev/a-nice-little-post-for-jumboumbo.html</id>
 
-        <updated>2025-08-31T16:13:53+02:00</updated>
-            <summary>
-                <![CDATA[
-                    Or at least, the caravan is coming . . .
-                ]]>
-            </summary>
+        <updated>2025-09-06T17:15:03+02:00</updated>
+            <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://bae49b90.umbel-983.pages.dev/media/posts/1/image.adapt.1663.medium.jpg" alt="caravan" width="1663" height="935" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/image.adapt.1663.medium-xs.jpg 640w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/image.adapt.1663.medium-sm.jpg 768w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/image.adapt.1663.medium-md.jpg 1024w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/image.adapt.1663.medium-lg.jpg 1366w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/image.adapt.1663.medium-xl.jpg 1600w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/image.adapt.1663.medium-2xl.jpg 1920w"></figure>
-<p>Or at least, the caravan is coming . . .</p>
+                <figure class="post__image"><img loading="lazy"  src="https://bae49b90.umbel-983.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png" alt="" width="796" height="577" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 640w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 768w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 1024w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1366w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xl.png 1600w ,https://bae49b90.umbel-983.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-2xl.png 1920w"></figure>
             ]]>
         </content>
     </entry>

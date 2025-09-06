@@ -3,7 +3,7 @@
     <title>umboNEW</title>
     <link href="https://umbonew.pages.dev/feed.xml" rel="self" />
     <link href="https://umbonew.pages.dev" />
-    <updated>2025-09-06T18:27:57+02:00</updated>
+    <updated>2025-09-06T18:30:55+02:00</updated>
     <author>
         <name>Francis Gladstone</name>
     </author>
@@ -38,7 +38,7 @@
             <summary></summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://umbonew.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png" alt="" width="796" height="577" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 640w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 768w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 1024w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1366w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xl.png 1600w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-2xl.png 1920w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://umbonew.pages.dev/media/posts/1/Screenshot-2025-08-08-000110.png" alt="" width="796" height="577" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-xs.png 300w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-sm.png 480w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-md.png 768w ,https://umbonew.pages.dev/media/posts/1/responsive/Screenshot-2025-08-08-000110-lg.png 1024w"></figure>
             ]]>
         </content>
     </entry>
